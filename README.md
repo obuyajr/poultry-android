@@ -5,14 +5,13 @@ Android app for poultry farming:
 Poultry Farming Login Page Android App
 This is a simple Android app for poultry farming that demonstrates how to create a login page using Android Studio.
 
-Getting Started
-To get started with the app, clone this repository to your local machine and open the project in Android Studio.
+
+To get started , clone this repository to your local machine and open the project in Android Studio.
 
 Prerequisites
 The app requires Android Studio to be installed on your machine to build and run the project.
 
-Installing
-To install the app, follow these steps:
+Installation steps:
 
 Clone the repository to your local machine using git clone.
 
@@ -23,7 +22,8 @@ Navigate to the cloned repository directory and select the project folder.
 Build and run the project in Android Studio.
 
 How to use
-The app is a basic login page that allows users to enter their email and password to authenticate. To use the app, follow these steps:
+The app is a basic login page that allows users to enter their email and password to authenticate.
+To use the app, follow these steps:
 
 Open the app and enter your email and password in the input fields.
 
